@@ -43,7 +43,7 @@ Nginx 1.16.0    MySQL 5.5.62   PHP-5.6    phpMyAdmin 4.4    Pure-Ftpd 1.0.49
 
 #   8. 新建数据库
 -------
-输入新建的数据库的名称，登录名和登录密码，密码尽量复杂。在选择编码方式时，请选择和论坛相同的编码方式，我论坛的编码方式是GBK，所以我选择的是GBK编码方式
+输入新建的数据库的名称，登录名和登录密码，密码尽量复杂。在选择编码方式时，请选择和论坛相同的编码方式，我论坛的编码方式是GBK，所以我选择的是GBK编码方式  
 ![](https://github.com/GaoGuai/rebuild-DZ_bbs/blob/master/images/新建数据库.png)
 
 #   9. 建立网站
@@ -74,15 +74,15 @@ Nginx 1.16.0    MySQL 5.5.62   PHP-5.6    phpMyAdmin 4.4    Pure-Ftpd 1.0.49
 #   14. 上传相关文件
 -------
 先删除data/restore.php，防止自己遗忘后被人利用这个页面。上传下面说的这几个文件夹，记住，是文件夹，是文件夹，是文件夹
-备份的文件夹\data\addonmd5
-备份的文件夹\data\attachment
-备份的文件夹\uc_server\images
-备份的文件夹uc_server\plugin
-备份的文件夹\old\template
+备份的文件夹\data\addonmd5  
+备份的文件夹\data\attachment  
+备份的文件夹\uc_server\images  
+备份的文件夹uc_server\plugin  
+备份的文件夹\old\template  
 
-到这里基本上就结束了，如果有哪里有问题，欢迎提问指出。
-电报频道：https://t.me/jiandandian_chanel
-论坛：www.jiandandian.online
-个人QQ：2367361478，有问题加我，请勿骚扰。
+到这里基本上就结束了，如果有哪里有问题，欢迎提问指出。  
+电报频道：https://t.me/jiandandian_chanel  
+论坛：www.jiandandian.online  
+个人QQ：2367361478，有问题加我，请勿骚扰。  
 
 
