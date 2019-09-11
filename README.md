@@ -7,7 +7,7 @@ DZ论坛重建  将原来的数据迁移到新的DZ论坛
 
 1. 备份数据库
 -------
-在DZ论坛的管理中心->站长->数据库->备份,在数据备份类型里面选择：·Discuz! 和 UCenter 数据·
+在DZ论坛的管理中心->站长->数据库->备份,在数据备份类型里面选择：`Discuz! 和 UCenter 数据`
 ![](https://github.com/GaoGuai/rebuild-DZ_bbs/blob/master/images/数据库备份.png)
 
 2. 网站备份
